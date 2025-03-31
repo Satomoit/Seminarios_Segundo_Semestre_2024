@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acendendo e Apagando a Lâmpada</title>
+</head>
+<body>
+    <h2>JavaScript</h2>
+    <p>Acendendo e apagando a lâmpada</p>
+    <p>Clique na lâmpada para acender, apagar ou diminuir o tamanho</p>
+    
+    <img 
+        id="lampada-apagada" 
+        src="lampada1.png" 
+        style="display:block; width:200px;" 
+        onclick="this.style.display='none'; document.getElementById('lampada-acesa').style.display='block'; document.getElementById('lampada-acesa').style.width='150px';"
+    >
+    <img 
+        id="lampada-acesa" 
+        src="lampada.png" 
+        style="display:none; width:200px;" 
+        onclick="this.style.display='none'; document.getElementById('lampada-apagada').style.display='block'; document.getElementById('lampada-apagada').style.width='150px';"
+    >
+
+</body>
+</html>
