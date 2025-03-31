@@ -15,6 +15,17 @@ Coleção de páginas web desenvolvidas para aprender os fundamentos de:
 - Estilização responsiva com **CSS3**
 - Interatividade básica com **JavaScript**
 
+## 🗃️ Status da Organização
+⚠️ **Nota sobre os arquivos:**  
+Este projeto ainda está em processo de organização - alguns arquivos estão soltos na raiz enquanto estruturo as pastas. Estou trabalhando para:
+
+- [ ] Criar uma estrutura de pastas lógica
+- [ ] Adicionar arquivos restantes
+- [ ] Agrupar páginas relacionadas
+
+*"Organização é o primeiro passo para a manutenção!"* ✨
+
+(Atualizado em: 22/11/2024)
 
 ## 👥 Contribuição
 Projeto desenvolvido por:
